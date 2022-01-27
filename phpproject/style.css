@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital@1&display=swap');
+
+body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
+
+
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    color: rgb(238, 23, 23);
+    background: rgba(0, 0, 0, 0.801);
+    font-size: 1em;
+    font-weight: 340;
+    text-align: center;
+}
+
+h1 {
+  font-family: 'Archivo Narrow', sans-serif;
+  
+
+}
+.thead-dark {
+ background-color: white;
+}
+.table {
+  background-color:white;
+}
